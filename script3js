@@ -1,0 +1,8 @@
+function equitriangle(n){
+     
+    let result = (1.7320 * n * n)/4;
+    console.log(result);
+
+}
+
+ equitriangle(20);
